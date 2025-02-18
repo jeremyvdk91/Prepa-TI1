@@ -8,7 +8,7 @@
     <?php
 include "inc/menuIncView.php";
     ?>
-    <title>Contact</title>
+    <title><?=$title ?></title>
 </head>
 <body>
 <h1>Formulaire de contact</h1>

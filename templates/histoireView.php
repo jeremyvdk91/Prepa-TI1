@@ -7,7 +7,7 @@
     <?php
 include "inc/menuIncView.php";
     ?>
-    <title>Histoire</title>
+     <title><?=$title ?></title>
 </head>
 <body>
     <img src="img/bird.jpg" alt="">

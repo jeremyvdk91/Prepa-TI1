@@ -7,7 +7,7 @@
     <?php
 include "inc/menuIncView.php";
     ?>
-    <title>Accueil</title>
+    <title><?=$title ?></title>
 </head>
 <body>
 <footer><?php

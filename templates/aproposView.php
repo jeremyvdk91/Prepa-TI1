@@ -7,7 +7,7 @@
     <?php
 include "inc/menuIncView.php";
     ?>
-    <title>A propos</title>
+    <title><?=$title ?></title>
 </head>
 <body>
     <img src="img/itachi.jpg" alt="">
